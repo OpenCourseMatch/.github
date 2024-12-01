@@ -16,11 +16,13 @@ OpenCourseMatch is an open-source web application designed to automate the assig
 
 ## Need help? Found a bug?
 
-TODO
+Please report bugs by creating a new GitHub issue in the [OpenCourseMatch/OpenCourseMatch repository](https://github.com/OpenCourseMatch/OpenCourseMatch/issues).
 
 ## Technical information
 
-TODO
+OpenCourseMatch is usually hosted on your own infrastructure to protect your user's data. This also allows you to configure OpenCourseMatch exactly like you need it.
+
+The application can be deployed in the form of a Docker container, which can be pulled from the [GitHub container registry](https://github.com/opencoursematch/OpenCourseMatch/pkgs/container/opencoursematch).
 
 ## License
 
